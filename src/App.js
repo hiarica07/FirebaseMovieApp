@@ -1,5 +1,4 @@
 import "./App.css";
-import MyRouter from "./context/MyRouter";
 
 function App() {
   return (
