@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities; 
+
+
+.font-extralight{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
